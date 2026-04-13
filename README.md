@@ -1,4 +1,5 @@
 # media-sorter
+
 An interactive Bash script that sorts images and video ﬁles based on their creation time (using EXIF metadata or ﬁle metadata if EXIF is unavailable) and organizes them into folders in the format year/month- day-year/filename.extension.
 
 ## media-sorter features
@@ -9,7 +10,9 @@ An interactive Bash script that sorts images and video ﬁles based on their cre
 * Requires exiftool (install via apt or brew if missing).
 
 ### How to Use the Script
+
 1. Save the script as media-sorter.sh
+
 2. Make it executable:
 ```bash
  chmod +x media-sorter.sh
@@ -18,7 +21,6 @@ An interactive Bash script that sorts images and video ﬁles based on their cre
 ```bash
 ./media-sorter.sh
 ```
-
 4. Enter the source and destination directories when prompted.
 
 
