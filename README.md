@@ -9,7 +9,7 @@ An interactive Bash script that sorts images and video ﬁles based on their cre
 * Creates folders in the format year/month-day-year/.
 * Requires exiftool (install via apt or brew if missing).
 
-### How to use the Script
+### How to use the script
 
 1. Save the script as media-sorter.sh
 
