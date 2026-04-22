@@ -24,7 +24,7 @@ An interactive Bash script that sorts images and video ﬁles based on their cre
 4. Enter the source and destination directories when prompted.
 
 
-#### Example output
+#### *Example output*
 
 ```text
 Sorted_Media/
@@ -42,9 +42,9 @@ Sorted_Media/
 
 *OR...*
 
-you may use media_sorter_custom_output.sh instead if you wish to be prompted to specifiy a custom date/folder output.
+You may use media_sorter_custom_output.sh instead if you wish to be prompted to specifiy a custom date/folder output as follows:
 
-Example Date Formats
+*Example Date Formats*
 
 {year}/{month}-{day}-{year} → 2023/01-15-2023
 {year}/{month}/{year}-{month}-{day} → 2023/01/2023-01-15
