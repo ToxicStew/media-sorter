@@ -28,13 +28,24 @@ An interactive Bash script that sorts images and video ﬁles based on their cre
 
 ```text
 Sorted_Media/
-├── 2023/
-│   ├── 01-15-2023/
+├── 2026/
+│   ├── 01-15-2026/
 │   │   ├── photo1.jpg
 │   │   └── video1.mp4
-│   └── 02-20-2023/
+│   └── 02-20-2026/
 │       └── photo2.png
-└── 2024/
-    └── 03-10-2024/
+└── 2026/
+    └── 03-10-2026/
         └── video2.mov
 ```
+
+
+**OR
+
+you may use media_sorter_custom_output.sh instead if you wish to be prompted to specifiy a custom date/folder output.
+
+Example Date Formats
+
+{year}/{month}-{day}-{year} → 2023/01-15-2023
+{year}/{month}/{year}-{month}-{day} → 2023/01/2023-01-15
+
