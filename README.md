@@ -40,7 +40,7 @@ Sorted_Media/
 ```
 
 
-*OR*
+*OR...*
 
 you may use media_sorter_custom_output.sh instead if you wish to be prompted to specifiy a custom date/folder output.
 
