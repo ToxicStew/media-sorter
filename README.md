@@ -13,7 +13,7 @@ An interactive Bash script that sorts images and video ﬁles based on their cre
 
 ### How to use the script
 
-1. Save the script as **_media-sorter.sh_**
+1. Save the script **_media-sorter.sh_**
 
 2. Make it executable:
 ```bash
@@ -44,7 +44,7 @@ Sorted_Media/
 
 *OR...*
 
-You may use **_media_sorter_custom_output.sh_** instead if you wish to be prompted to specifiy a custom date/folder output as follows:
+You may use **_media_sorter_custom_output.sh_** instead if you wish to also be prompted to specifiy a custom date/folder output as follows:
 
 *Example Date Formats*
 
