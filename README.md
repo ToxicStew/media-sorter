@@ -23,7 +23,7 @@ An interactive Bash script that sorts images and video ﬁles based on their cre
 ```bash
 ./media-sorter.sh
 ```
-4. Enter the source and destination directories when prompted
+4. Enter the source and destination directories when prompted (e.g. ~/Media --> ~/Sorted_Media)
 
 
 #### *Example output*
