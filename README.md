@@ -12,7 +12,7 @@ An interactive Bash script that will recursively search a folder to find and the
 
 ### How to use the script
 
-1. Save the script **_media-sorter.sh_** or **_media_sorter_custom_output_**
+1. Save the script **_media-sorter.sh_** or **_media_sorter_custom_output.sh_**
 
 2. Make it executable:
 ```bash
