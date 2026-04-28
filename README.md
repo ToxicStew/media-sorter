@@ -50,5 +50,6 @@ You may use **_media_sorter_custom_output.sh_** instead if you wish to also be p
 *Example Date Formats*
 
 {year}/{month}-{day}-{year} → 2026/01-15-2026
+
 {year}/{month}/{year}-{month}-{day} → 2026/01/2026-01-15
 
