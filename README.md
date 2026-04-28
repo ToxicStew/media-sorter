@@ -2,6 +2,8 @@
 
 An interactive Bash script that will recursively search a folder to find and then sort images and video ﬁles based on their creation time (using EXIF metadata or ﬁle metadata if EXIF is unavailable), sorting them into specified output folders in the format year/month-day-year/filename.extension. 
 
+Useful for organizing personal media taken with my DSLR or phone camera.
+
 ## Media-sorter features
 
 * Handles both images and videos (JPG, PNG, MP4, MOV, AVI, etc.).
